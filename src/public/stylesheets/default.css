@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+  font-family: 'Roboto';
+}
+
+h2 {
+  padding: 20px 0px;
+}
+
+.topbar-name {
+  color: #fff;
+  margin-right: 20px;
+  font-size: 18px;
+}
+
+.btn-label {
+  position: relative;
+  left: -12px;
+  display: inline-block;
+  padding: 0px 4px;
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 3px 0 0 3px;
+}
+.btn-labeled {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.btn-commits,
+.btn-branches {
+  width: 75px;
+}
+
+.info-div {
+  width: 400px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.fa-file-code {
+  color: rgb(255, 127, 80);
+}
+
+.fa-scroll {
+  color: rgb(224, 199, 31);
+}
+
+.fa-star {
+  color: rgb(255, 224, 15);
+}
+
+.fa-tag {
+  color: rgb(25, 159, 255);
+}
+
+.fa-eye {
+  color: rgb(21, 214, 73);
+}
